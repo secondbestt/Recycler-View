@@ -5,7 +5,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.recycle" //defining app id
-        minSdkVersion 21
+        minSdkVersion 22
         targetSdkVersion 33
         versionCode 4   //defining version code
         versionName "1.3"
