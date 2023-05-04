@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.example.recycle" //defining app id
         minSdkVersion 22
-        targetSdkVersion 32
+        targetSdkVersion 33
         versionCode 4   //defining version code
         versionName "1.3"
 
